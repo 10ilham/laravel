@@ -8,6 +8,7 @@
 </p>
 
 ## Tentang Laravel
+[Rangkuman Laravel](https://responsible-fact-6d4.notion.site/Installation-2e27d7f5103e420f96b0bd21445d2eb2?pvs=4)
 
 Laravel adalah sebuah kerangka kerja aplikasi web dengan sintaks yang ekspresif dan elegan. Kami percaya bahwa pengembangan harus menjadi pengalaman yang menyenangkan dan kreatif untuk benar-benar memuaskan. Laravel menghilangkan kerumitan dalam pengembangan dengan menyederhanakan tugas-tugas umum yang digunakan dalam banyak proyek web, seperti:
 
